@@ -2,4 +2,3 @@ IPython
 ipywidgets
 bqplot
 numpy
-matplotlib
